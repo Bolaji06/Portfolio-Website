@@ -133,6 +133,9 @@ body{
     .hero-col-2{
         display: none;
     }
+    .hero-container{
+        padding-top: 150px!important;
+    }
 }
 @media(max-width:550px){
     .name{
@@ -144,6 +147,7 @@ body{
     .role{
         padding-top: 8px!important;
     }
+    
 }
 
 .icon{
@@ -157,7 +161,7 @@ body{
 }
 
 .hero-container{
-    padding-top: 250px;
+    padding-top: 180px;
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 50px;
